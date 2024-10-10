@@ -1,5 +1,8 @@
 ## I am a computer engineer 👋
-
+---
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DiegoAgudelo4&theme=dark&background=000000)](https://git.io/streak-stats)
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoAgudelo4&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **DiegoAgudelo4/DiegoAgudelo4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
