@@ -1,5 +1,6 @@
 ## I am a computer engineer 👋
-
+![DiegoAgudelo4 GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegoAgudelo4&show_icons=true&theme=dark)
+---
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DiegoAgudelo4&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ---
